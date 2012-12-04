@@ -1,4 +1,4 @@
-<div class="wrap">
+ <div class="wrap">
   <h2>Manage Issues</h2>
   
   <table class="widefat im_category_list">
